@@ -2,7 +2,7 @@
 - ?
 # Script to obfuscate
 ```
-local obfuscator = loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostDuckyy/RBXLuaObfuscator/main/source.lua"))()
+local obfuscator = loadstring(game:HttpGet("https://raw.githubusercontent.com/Cortzalno666/Zex.obu/main/Source.lua"))()
 
 obfuscator(
  [===[
